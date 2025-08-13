@@ -114,7 +114,12 @@ Bugs: Each bug includes repro steps, expected/actual results, severity/priority,
 ✍️ Author
 
 Aya Yehya Elsaid — Manual QA/Software Tester
+
+
 Email: ayayehya045@gmail.com
+
+
 LinkedIn: https://www.linkedin.com/in/aya-yehya-06a9ab221
+
 
 For feedback or collaboration, open an Issue or contact directly.
