@@ -1,4 +1,4 @@
-# SolahCafe-QA-Manual
+# Sola Cafe-QA-Manual
 Repository Purpose: This repository showcases my work as a Manual QA/Tester on the Solah Café project (Mobile App for customers + Web Admin Dashboard). It includes requirements documentation, test plans, test cases, bug reports, RTM, and execution reports.
 
 🔎 Overview
